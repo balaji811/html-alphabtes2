@@ -1,0 +1,216 @@
+body{
+    background-color: blue;
+}
+
+.head{
+ 
+    font-size: 3.5rem;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.flex{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.alpha{
+    display: grid;
+    grid-template-columns:280px 280px 280px 280px       ;
+    grid-template-columns:280px 280px 280px 280px ;
+    gap: 20px;
+}
+
+.item{
+    background-color: aquamarine;
+    font-size: 3rem;
+    text-align: center;
+    border-radius: 0.75rem;
+    border: 3px solid black;
+    height: 280px;
+    width: 280px;
+}
+
+.end{
+    text-align: center;
+    font-size: 3rem;
+    text-align: center;
+}
+
+
+.apple{
+    background-image: url(https://www.collinsdictionary.com/images/full/apple_158989157.jpg);
+    background-size: 100%  100%;
+    background-repeat: no-repeat;
+}
+
+.ball{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfI3HE5lFuzqEQuIzcFIRsy1BjzaErJUu4Jw&s);
+    background-size: 100%  100%;
+    background-repeat: no-repeat;
+}
+
+.cat{
+    background-image: url(https://images.pexels.com/photos/45201/kitty-cat-kitten-pet-45201.jpeg);
+    background-size: 100%  100%;
+    background-repeat: no-repeat;
+}
+
+.dog{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUugTTjEKB2cGwn4mQTKLmas1fTVSLBaChlQ&s);
+    background-size: 100%  100%;
+    background-repeat: no-repeat;
+}
+
+.elephant{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVoFq3XlAYVa5ThUCMFuzv_C7zei7KhT9Nag&s);
+    background-size: 100%  100%;
+    background-repeat: no-repeat;
+}
+
+.frog{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYhdyvzf8URaWbhaf7Xb1_T92Uugne_2VbSQ&s);
+    background-size: 100%  100%;
+    background-repeat: no-repeat;
+}
+
+.goat{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsMk2aOzVP_WJCjUA8DvwKx9Orma9uGn2qWA&s);
+    background-size: 100%  100%;
+    background-repeat: no-repeat;
+}
+
+.horse{
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Puerto_rican-Paso-Fino-Horse-chestnut.jpg/1200px-Puerto_rican-Paso-Fino-Horse-chestnut.jpg);
+    background-size: 100%  100%;
+    background-repeat: no-repeat;
+}
+
+.ice{
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Ice_cream_with_whipped_cream%2C_chocolate_syrup%2C_and_a_wafer_%28cropped%29.jpg/640px-Ice_cream_with_whipped_cream%2C_chocolate_syrup%2C_and_a_wafer_%28cropped%29.jpg);
+    background-size: 100%  100%;
+    background-repeat: no-repeat;
+}
+
+.jacket{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTevRBENhf2XuOdyfUIyazxTxpt0yu3coFP7Q&s);
+    background-size: 100%  100%;
+    background-repeat: no-repeat;
+}
+
+.kite{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRlVBAoi2AC50yHt4AuFZZ4ZdA-7mdpMAYsQ&s);
+    background-size: 100%  100%;
+    background-repeat: no-repeat;
+}
+
+.lion{
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Lion_%28Panthera_leo%29_male_6y.jpg/200px-Lion_%28Panthera_leo%29_male_6y.jpg);
+    background-size: 100%  100%;
+    background-repeat: no-repeat;
+}
+
+.monkey{
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Bonnet_macaque_%28Macaca_radiata%29_Photograph_By_Shantanu_Kuveskar.jpg/220px-Bonnet_macaque_%28Macaca_radiata%29_Photograph_By_Shantanu_Kuveskar.jpg);
+    background-size: 100%  100%;
+    background-repeat: no-repeat;
+}
+
+.night{
+    background-image: url(https://i.pinimg.com/736x/51/e7/6b/51e76bc1ca0102dac225e7781cc5158f.jpg);
+    background-size: 100%  100%;
+    background-repeat: no-repeat;
+}
+
+.orange{
+    background-image: url(https://4.imimg.com/data4/XL/QU/MY-23225626/fresh-orange-250x250.jpg);
+    background-size: 100%  100%;
+    background-repeat: no-repeat;
+}
+
+.peacock{
+    background-image: url(https://i.natgeofe.com/k/f7b43cf8-3d0b-4b78-8717-bd49db032d70/indian-peafowl-tail-spread-closeup_3x4.jpg);
+    background-size: 100%  100%;
+    background-repeat: no-repeat;
+}
+
+.quiz{
+    background-image: url(https://thumbs.dreamstime.com/b/male-hand-holding-megaphone-quiz-time-speech-bubble-loudspeaker-banner-business-marketing-advertising-vector-125104939.jpg);
+    background-size: 100%  100%;
+    background-repeat: no-repeat;
+}
+
+.rainbow{
+    background-image: url(https://images.nationalgeographic.org/image/upload/t_RL2_search_thumb/v1638886205/EducationHub/photos/rainbow-river.jpg);
+    background-size: 100%  100%;
+    background-repeat: no-repeat;
+}
+
+.snake{
+    background-image: url(https://scitechdaily.com/images/Trimeresurus-ayeyarwadyensis-Specimen.jpg);
+    background-size: 100%  100%;
+    background-repeat: no-repeat;
+}
+
+.tiger{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_3CxLr1UXyX3ig1htSxdW1mrUpPgIKwhehw&s);
+    background-size: 100%  100%;
+    background-repeat: no-repeat;
+}
+
+.umbrella{
+    background-image: url( https://w0.peakpx.com/wallpaper/346/412/HD-wallpaper-rain-nature-red-umbrella.jpg);
+    background-size: 100%  100%;
+    background-repeat: no-repeat;
+}
+
+.van{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQisWXbfPsJmkaE1GQsMVXVQvJbDeKPplWUOg&s);
+    background-size: 100%  100%;
+    background-repeat: no-repeat;
+}
+
+.winner{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvtRXiwN5hWFAgRsGInemx95SjF40hATuQLw&s);
+    background-size: 100%  100%;
+    background-repeat: no-repeat;
+}
+
+.xray{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_7EiRthm8O1ct_V72ZHtGq-ewcS97HlR8qg&s);
+    background-size: 100%  100%;
+    background-repeat: no-repeat;
+}
+
+.yard{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTULWA7rSk96GZ6yBQGHN7VSGqudqeU94sMCIAoWq8d6OQxEQjHckrg6oXAWU5-r7ee1t8&usqp=CAU);
+    background-size: 100%  100%;
+    background-repeat: no-repeat;
+}
+
+.zebra{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLXk0org4Ms5Qm6bmxZAchIXsf4LUgs6T5DQ&s);
+    background-size: 100%  100%;
+    background-repeat: no-repeat;
+}
+
+
+@media (max-width: 800px) {
+   
+    .alpha{
+        display: grid;
+        grid-template-columns:200px  200px ;
+        grid-template-rows:200px  200px  ;
+        gap: 5px;
+    }
+    .item{
+        height: 200px;
+        width: 200px;
+    }
+
+    .head{
+        font-size: 2rem;
+    }
+}
